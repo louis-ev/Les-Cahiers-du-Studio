@@ -175,7 +175,7 @@ export default {
       input_file_fields: [
         {
           key: "audio",
-          label: "Audio",
+          label: this.$t("audio"),
           accept: "audio/*",
           capture: true,
           svg: `
@@ -197,7 +197,7 @@ export default {
         },
         {
           key: "file",
-          label: "Fichier",
+          label: this.$t("file"),
           accept: "",
           capture: false,
           svg: `
@@ -209,7 +209,7 @@ export default {
         },
         {
           key: "video",
-          label: "Vidéo",
+          label: this.$t("video"),
           accept: "video/*",
           capture: true,
           svg: `
@@ -222,7 +222,7 @@ export default {
         },
         {
           key: "image",
-          label: "Image",
+          label: this.$t("image"),
           accept: "image/*",
           capture: true,
           svg: `
