@@ -25,6 +25,14 @@ module.exports = (function () {
       mb: "Mo",
       gb: "Go",
 
+      audio: "Audio",
+      video: "Vidéo",
+      image: "Image",
+      file: "Fichier",
+      marker: "Marqueur",
+      text: "Texte",
+      embed: "Intégration",
+
       list_of_folders: "Liste des timelines",
       list_of_authors: "Liste des auteurs",
       search_among_timeline: "Chercher par nom",
@@ -203,9 +211,6 @@ module.exports = (function () {
 
       credits:
         'Un outil libre et open-source créé par l’<a href="https://latelier-des-chercheurs.fr" class="js--openInBrowser" target="_blank">Atelier des Chercheurs</a> avec et pour le <a href="https://www.studiotheatre.fr/" class="js--openInBrowser" target="_blank">Studio-Théâtre de Vitry-sur-Seine</a>.',
-      marker: "Marqueur",
-      text: "Texte",
-      embed: "Intégration",
       authors_list: "Inscrits",
 
       toconnectwithanotherdevice:
@@ -357,6 +362,14 @@ module.exports = (function () {
       login_to_access_project:
         "Connect with an authorized account to access project",
       login_to_edit_project: "Login to contribute",
+
+      audio: "Audio",
+      video: "Video",
+      image: "Image",
+      file: "File",
+      marker: "Marker",
+      text: "Text",
+      embed: "Embed",
 
       list_of_folders: "List of timelines",
       list_of_authors: "List of authos",
